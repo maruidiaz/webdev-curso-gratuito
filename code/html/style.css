@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap');
 
 body {
-  background-color: #C44D1c;
+  background-color: #1c73c4;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr 1fr;
@@ -42,7 +42,7 @@ header {
 section {
   grid-area: Section;
   border: 1px solid turquoise;
-  background-color: #FEE240;
+  background-color: #a1ff3d;
   opacity: 1;
 }
 
@@ -58,7 +58,7 @@ section span {
 aside {
   grid-area: Aside;
   border: 1px solid turquoise;
-  background-color: #E29C6D;
+  background-color: #6be0e0;
   opacity: 0.5;
 }
 
