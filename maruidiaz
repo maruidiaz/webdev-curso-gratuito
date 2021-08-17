@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <title>María Angélica Ruidíaz Barriosnuevos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header>
+    <h1>Dados pessoais</h1>
+    <h2>Designer gráfica colombiana</h2>
+    <img src="hhttps://www.facebook.com/photo/?fbid=10212140701926286&set=a.1530118766411" alt="oculos" width="200">
+
+  </header>
+  <article id="article-1" class="articles">
+    <p>
+      <img
+        src="https://pixabay.com/pt/photos/flamingos-p%c3%a1ssaro-aqu%c3%a1tico-p%c3%a1ssaros-4240669/"
+        alt="Diversidade" width="100%" />
+    </p>
+  </article>
+  <section>
+    <p>Colombia</p>
+    <div>
+      <p>Meu pais</p>
+      R$ <span id="pais">0,50</span>
+    </div>
+    <img src="https://pixabay.com/pt/illustrations/col%c3%b4mbia-bandeira-1460312/" alt="pais" width="128" class="pais">
+  </section>
+  <aside>
+    <h2>Minha cidade</h2>
+    <img src="https://content.r9cdn.net/rimg/dimg/e6/f7/f9de243a-city-30628-17260b0f7cb.jpg?width=1750&height=1000&xhint=2531&yhint=1900&crop=true" width="200" class="bolsa">
+  </aside>
+  <footer>
+    <h2>Muito obrigada</h2>
+    <img src="https://travel-guide.daytours4u.com/wp-content/uploads/sites/4/2016/02/garavatos-carnaval-barranquilla-1024x585-1024x585.jpg" width="200">
+  </footer>
+  <script src="programa.js"></script>
+</body>
+
+</html>
