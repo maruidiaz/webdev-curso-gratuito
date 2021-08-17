@@ -58,7 +58,7 @@ section span {
 aside {
   grid-area: Aside;
   border: 1px solid turquoise;
-  background-color: #E29C6D;
+  background-color: #6be0bb;
   opacity: 0.5;
 }
 
